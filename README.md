@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Ella%20Eom&fontSize=90&animation=blinking&fontColor=c900fc&desc=Hello%20World!&descAlignY=25)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Ella%20Eom&fontSize=90&animation=blinking&fontColor=#000&desc=Hello%20World!&descAlignY=25)
 
 
